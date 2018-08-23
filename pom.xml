@@ -35,9 +35,18 @@
 
     <groupId>eu.bcvsolutions.idm.connectors.csv</groupId>
     <artifactId>csv-connector</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>CSV Connector</name>
     <packaging>jar</packaging>
+
+	<developers>
+		<developer>
+			<id>MK</id>
+			<name>Marek Klement</name>
+			<email>marek.klement@bcvsolutions.eu</email>
+			<roles>Developer</roles>
+		</developer>
+	</developers>
 
     <properties>
         <connid.version xmlns="">1.4.3.0</connid.version>
